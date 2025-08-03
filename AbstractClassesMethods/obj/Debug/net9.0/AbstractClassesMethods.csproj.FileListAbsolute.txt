@@ -1,0 +1,15 @@
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\bin\Debug\net9.0\AbstractClassesMethods.exe
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\bin\Debug\net9.0\AbstractClassesMethods.deps.json
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\bin\Debug\net9.0\AbstractClassesMethods.runtimeconfig.json
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\bin\Debug\net9.0\AbstractClassesMethods.dll
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\bin\Debug\net9.0\AbstractClassesMethods.pdb
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\obj\Debug\net9.0\AbstractClassesMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\obj\Debug\net9.0\AbstractClassesMethods.AssemblyInfoInputs.cache
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\obj\Debug\net9.0\AbstractClassesMethods.AssemblyInfo.cs
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\obj\Debug\net9.0\AbstractClassesMethods.csproj.CoreCompileInputs.cache
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\obj\Debug\net9.0\AbstractClassesMethods.sourcelink.json
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\obj\Debug\net9.0\AbstractClassesMethods.dll
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\obj\Debug\net9.0\refint\AbstractClassesMethods.dll
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\obj\Debug\net9.0\AbstractClassesMethods.pdb
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\obj\Debug\net9.0\AbstractClassesMethods.genruntimeconfig.cache
+C:\Users\Razer\Desktop\dcit318-assignment2-11165792\AbstractClassesMethods\obj\Debug\net9.0\ref\AbstractClassesMethods.dll
